@@ -3,3 +3,6 @@ logging:
   level: INFO
   loggers:
     com.neerasin: DEBUG
+
+swagger:
+  resourcePackage: com.neerasin.api
